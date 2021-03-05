@@ -4,7 +4,7 @@ Its a simple API which returns Sum , Sub , Product of two numbers  also the fact
 
 For example - 
 
-1] If we Run this on localhost - > http://127.0.0.1:5000/math/5/2
+1] If we Run this on IP - > http://127.0.0.1:5000/math/5/2
 
      It returns a JSON as follows:
        
